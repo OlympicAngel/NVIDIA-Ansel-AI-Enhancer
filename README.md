@@ -1,10 +1,10 @@
 <h1 align="center">
     NVIDIA Ansel AI Enhancer<br><br>
-    <img src="https://i.postimg.cc/xTFLzVpM/Ansel-AI-Res-Up-Show.png" width="400"/>
+    <img src="https://i.postimg.cc/hjdC9JqW/Screenshot-4.png" width="400"/>
 </h1>
 
 <p align="center">
-NVIDIA Ansel AI Enhancer is an app I quickly made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to <strong>upscale any image to 8K</strong> whiles adding further quality.
+NVIDIA Ansel AI Enhancer is an app @dynamiquel made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to <strong>upscale any image to 8K</strong> whiles adding further quality.
 </p>
 
 <br>
@@ -24,9 +24,6 @@ NVIDIA Ansel AI Enhancer is an app I quickly made that takes advantage of NVIDIA
 - [NVIDIA GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/)</li>
 - NVIDIA display adapter (for greyscale support)</li>
 - NVIDIA Turing (20 series) or newer display adapter (for colour support)</li>
-
-## Download
-Click [**here**](https://github.com/dynamiquel/NVIDIA-Ansel-AI-Enhancer/releases/download/v1.2/NVIDIA.Ansel.AI.Enhancer.exe) to download the latest version of the app.
 
 ## Building (for developers)
 ### Prerequisites
