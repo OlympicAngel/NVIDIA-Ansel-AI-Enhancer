@@ -3,8 +3,9 @@
     <img src="https://i.postimg.cc/hjdC9JqW/Screenshot-4.png" width="400"/>
 </h1>
 <p align="center">
-    NVIDIA Ansel AI Enhancer is an app <a href="https://github.com/dynamiquel"><strong>dynamiquel</strong></a> made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to <strong>upscale any image to 8K</strong> whiles adding further quality.
+    NVIDIA Ansel AI Enhancer is an app that <a href="https://github.com/dynamiquel"><strong>@dynamiquel</strong></a> made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to <strong>upscale any image to 8K</strong> whiles adding further quality.
 </p>
+<p><i><b>This version</b> is an edit by @OlympicAngel used for adding staff, currently this version has a release with much faster transparency removal. (version 1.2.1) notice that in future build of @dynamiquel version this should be included to!</i></p>
 
 <br>
 
