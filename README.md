@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    NVIDIA Ansel AI Enhancer is an app [@dynamiquel](https://github.com/dynamiquel) made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to <strong>upscale any image to 8K</strong> whiles adding further quality.
+    NVIDIA Ansel AI Enhancer is an app [dynamiquel](https://github.com/dynamiquel) made that takes advantage of NVIDIA’s Ansel RTX AI Up-Res to allow users to <strong>upscale any image to 8K</strong> whiles adding further quality.
 </p>
 
 <br>
